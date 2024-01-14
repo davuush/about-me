@@ -1,0 +1,51 @@
+body{
+    background-color: lightskyblue;
+}
+.header{
+    background-color: lightgray;
+    width: 1400px;
+    height: 75px;
+    border-radius: 20px ;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+}
+.aboutme{
+margin-left: 100px;
+}
+.introduction1{
+    margin-left: 720px;
+}
+.introduction2{
+    margin-left: 645px;
+}
+.introduction3{
+    margin-left: 640px;
+}
+.skills{
+    margin-left: 655px;
+}
+.work{
+    margin-left: 620px;
+}
+.tg{
+    margin-right: 100px;
+}
+.hobby1{
+margin-left: 650px;
+max-width: 300px;
+}
+.ph1{
+    margin-left: 600px;
+    border-radius: 20px;
+    max-width: 500px;
+
+}
+.hobby2{
+    margin-left: 650px;   
+    max-width: 300px;
+}
+.ph2{
+     margin-left: 480px;
+     border-radius: 20px;
+}
